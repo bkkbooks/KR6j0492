@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0492/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0492/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說鬼子母經
+  identifiers:
+    krp: KR6j0492
+    cbeta: T21n1262
+    cbeta_old_id: T21n1262
+    authorityid: CA0001298
+    json_key: T1262
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1262.xml
+    old_id: T21n1262
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0492_000-T.yaml, hash: 'sha256:3cf167fd5f82024d0dc81f4688bed5bacda8d76cf517cad047245ef848eb58c6'}
+  - {seq: 1, filename: KR6j0492_001-T.yaml, hash: 'sha256:986152d2734beceba5536d8c089346fb62f4118d002d54e48378367d8eb520c7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0492_000-T.markers.yaml, hash: 'sha256:0b1dd3572e3636540ce7a2c503f0f1118fe02ba85e08b32eca2d13b75f84f3aa'}
+  - {seq: 1, role: markers, filename: assets/KR6j0492_001-T.markers.yaml, hash: 'sha256:a3c9371a017592e3f1b60034e8e7161e11eeb724b1e3979c6bccec175c19f24b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0492_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1428
+  label: 佛說鬼子母經
+  type: juan
+  level: 1
+hash: sha256:4cf94ec01c258be6758c7c2f4f1b64f29f48b660a9eaadd8e73323273aec0e54

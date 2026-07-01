@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0492/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說鬼子母經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1262.xml
+    old_id: T21n1262
+hash: sha256:3cf167fd5f82024d0dc81f4688bed5bacda8d76cf517cad047245ef848eb58c6
