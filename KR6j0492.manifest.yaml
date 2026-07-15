@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0492/v1
 canonical_location: https://kanripo.org/bkk/KR6j0492/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說鬼子母經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0492_000.yaml, hash: 'sha256:3cf167fd5f82024d0dc81f4688bed5bacda8d76cf517cad047245ef848eb58c6'}
-  - {seq: 1, filename: KR6j0492_001.yaml, hash: 'sha256:986152d2734beceba5536d8c089346fb62f4118d002d54e48378367d8eb520c7'}
+  - {seq: 1, filename: KR6j0492_001.yaml, hash: 'sha256:674f21567686fb8bd6319734d260b0c01a248b64cd0f7991e0859947c79d46aa'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0492_000.markers.yaml, hash: 'sha256:9d7c917acee13de6f9c92fcb1d881f39732fa806e82d8543e408de308b20d04f'}
-  - {seq: 1, role: markers, filename: assets/KR6j0492_001.markers.yaml, hash: 'sha256:577d9e4fabb886174637c41e880a36c03703db7f61b72bc56af9ff4376c5cb54'}
+  - {seq: 1, role: markers, filename: assets/KR6j0492_001.markers.yaml, hash: 'sha256:ed6fb30922f9409f09690a028752fce65832e470507c5e7450ccef22d4e646b0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 佛說鬼子母經
   type: juan
   level: 1
-hash: sha256:284d8f7a4ade3d6dbc680a5ffce37ece631dfc2af6cd09e5da5605be2f7f1aab
+hash: sha256:94658169b106014941ae913d5db2d01f7a21de629e00faf391739b017c6098b6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
